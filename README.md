@@ -1,3 +1,3 @@
 as
 Hello World!
-very big conflict!
+conflict fixed!
